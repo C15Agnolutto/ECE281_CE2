@@ -12,7 +12,7 @@ structural and behavioral formats; they can be seen below.
 
 
 ### Structural Testbench Waveform
-![struct] 
+![struct] (https://raw2.github.com/C15Agnolutto/ECE281_CE2/master/Structural_testbench.JPG)
 
 
 ### Behavioral Testbench Waveform
