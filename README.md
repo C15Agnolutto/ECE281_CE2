@@ -20,3 +20,8 @@ structural and behavioral formats; they can be seen below.
 
 
 ### Conclusion
+This computer exercise allowed me to get practice with structural and behavioral VHDL programming, which in turn gave
+me a better understanding of the difference between the two. I succeeded in making a simple decoder in both programming
+styles. After a bit of research I found that a decoder allows you to make multiplexors. You can also use a decoder
+for the AND pland in your own logic circuits and just leave unconnected the outputs you do not need. Decoders are used 
+to decode addresses for memory in computers. 
