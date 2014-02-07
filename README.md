@@ -16,7 +16,7 @@ structural and behavioral formats; they can be seen below.
 
 
 ### Behavioral Testbench Waveform
-![beh] 
+![beh] (https://raw2.github.com/C15Agnolutto/ECE281_CE2/master/Behavioral_testbench.JPG)
 
 
 ### Conclusion
